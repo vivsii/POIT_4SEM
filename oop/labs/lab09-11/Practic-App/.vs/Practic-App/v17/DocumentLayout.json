@@ -1,0 +1,776 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\core\\repositories\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\core\\repositories\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\model\\data\\uw\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\model\\data\\uw\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\model\\data\\repositories\\basketdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\model\\data\\repositories\\basketdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\model\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\model\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\model\\data\\repositories\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\model\\data\\repositories\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\model\\data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\model\\data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\model\\data\\dataworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\model\\data\\dataworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\viewmodel\\mainviewmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\viewmodel\\mainviewmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\model\\data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\model\\data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\viewmodel\\deleteproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\viewmodel\\deleteproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\viewmodel\\tovarlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\viewmodel\\tovarlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\viewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\viewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\view\\tovarlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\view\\tovarlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\view\\addtovarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\view\\addtovarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\styles\\radiobuttontheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\styles\\radiobuttontheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\viewmodel\\basketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\viewmodel\\basketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\viewmodel\\addtovarviewmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\viewmodel\\addtovarviewmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\model\\basketdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\model\\basketdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\model\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\model\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\styles\\mainstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\styles\\mainstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\styles\\producttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\styles\\producttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\styles\\inputtheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\styles\\inputtheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\styles\\buttontheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\styles\\buttontheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\view\\tovarlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\view\\tovarlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\viewmodel\\login\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\viewmodel\\login\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\viewmodel\\login\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\viewmodel\\login\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\view\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\view\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\view\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\view\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\view\\deleteproductview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\view\\deleteproductview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\view\\deleteproductview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\view\\deleteproductview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\view\\basketview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\view\\basketview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\view\\basketview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\view\\basketview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\view\\login\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\view\\login\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\view\\login\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\view\\login\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\view\\login\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\view\\login\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\view\\login\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\view\\login\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\mvvm\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\mvvm\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\migrations\\applicationdatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\migrations\\applicationdatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\migrations\\20240422121105_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\migrations\\20240422121105_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\practic-app\\practic-app\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E702177-6508-4193-92E1-A65F559E0D3D}|Practic-App\\Practic-App.csproj|solutionrelative:practic-app\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\Model\\Data\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\Data\\Repositories\\ProductRepository.cs \u2B24",
+              "RelativeToolTip": "Practic-App\\MVVM\\Model\\Data\\Repositories\\ProductRepository.cs \u2B24",
+              "ViewState": "AQIAADkAAAAAAAAAAAAqwF8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:18:27.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataWorker.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\Data\\DataWorker.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\Model\\Data\\DataWorker.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\Data\\DataWorker.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\Model\\Data\\DataWorker.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAwEcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:54:45.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\Data\\Repositories\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\Model\\Data\\Repositories\\BasketRepository.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\Data\\Repositories\\BasketRepository.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\Model\\Data\\Repositories\\BasketRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:45:12.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\Model\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\Model\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwEoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:45:20.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasketDataRepository.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\Data\\Repositories\\BasketDataRepository.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\Model\\Data\\Repositories\\BasketDataRepository.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\Data\\Repositories\\BasketDataRepository.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\Model\\Data\\Repositories\\BasketDataRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwDgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:18:01.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\Data\\UW\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\Model\\Data\\UW\\UnitOfWork.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\Data\\UW\\UnitOfWork.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\Model\\Data\\UW\\UnitOfWork.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:18:01.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\core\\Repositories\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "Practic-App\\core\\Repositories\\IDataRepository.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\core\\Repositories\\IDataRepository.cs",
+              "RelativeToolTip": "Practic-App\\core\\Repositories\\IDataRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:12:35.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainViewModal.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\ViewModel\\MainViewModal.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\ViewModel\\MainViewModal.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\ViewModel\\MainViewModal.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\ViewModel\\MainViewModal.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:09:31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\core\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "Practic-App\\core\\ObservableObject.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\core\\ObservableObject.cs",
+              "RelativeToolTip": "Practic-App\\core\\ObservableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:12:40.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Practic-App\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MainWindow.xaml",
+              "RelativeToolTip": "Practic-App\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T15:58:47.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteProductViewModel.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\ViewModel\\DeleteProductViewModel.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\ViewModel\\DeleteProductViewModel.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\ViewModel\\DeleteProductViewModel.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\ViewModel\\DeleteProductViewModel.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwCUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:32:04.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDataContext.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\Data\\ApplicationDataContext.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\Model\\Data\\ApplicationDataContext.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\Data\\ApplicationDataContext.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\Model\\Data\\ApplicationDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T22:02:08.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TovarListViewModel.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\ViewModel\\TovarListViewModel.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\ViewModel\\TovarListViewModel.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\ViewModel\\TovarListViewModel.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\ViewModel\\TovarListViewModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:49:02.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\ViewModel\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\ViewModel\\ProductViewModel.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\ViewModel\\ProductViewModel.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\ViewModel\\ProductViewModel.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:18:01.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TovarListView.xaml",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\TovarListView.xaml",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\View\\TovarListView.xaml",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\TovarListView.xaml",
+              "RelativeToolTip": "Practic-App\\MVVM\\View\\TovarListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T17:45:17.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddTovarView.xaml",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\AddTovarView.xaml",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\View\\AddTovarView.xaml",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\AddTovarView.xaml",
+              "RelativeToolTip": "Practic-App\\MVVM\\View\\AddTovarView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T17:43:02.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\core\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Practic-App\\core\\RelayCommand.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\core\\RelayCommand.cs",
+              "RelativeToolTip": "Practic-App\\core\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:26:11.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BasketViewModel.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\ViewModel\\BasketViewModel.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\ViewModel\\BasketViewModel.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\ViewModel\\BasketViewModel.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\ViewModel\\BasketViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:18:01.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddTovarViewModal.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\ViewModel\\AddTovarViewModal.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\ViewModel\\AddTovarViewModal.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\ViewModel\\AddTovarViewModal.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\ViewModel\\AddTovarViewModal.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:18:01.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Practic-App\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:19:02.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RadioButtonTheme.xaml",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\styles\\RadioButtonTheme.xaml",
+              "RelativeDocumentMoniker": "Practic-App\\styles\\RadioButtonTheme.xaml",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\styles\\RadioButtonTheme.xaml",
+              "RelativeToolTip": "Practic-App\\styles\\RadioButtonTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T23:55:29.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BasketData.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\BasketData.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\Model\\BasketData.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\BasketData.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\Model\\BasketData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:58:51.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\Basket.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\Model\\Basket.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\Basket.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\Model\\Basket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:58:53.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainStyles.xaml",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\styles\\MainStyles.xaml",
+              "RelativeDocumentMoniker": "Practic-App\\styles\\MainStyles.xaml",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\styles\\MainStyles.xaml",
+              "RelativeToolTip": "Practic-App\\styles\\MainStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T23:55:23.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductTheme.xaml",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\styles\\ProductTheme.xaml",
+              "RelativeDocumentMoniker": "Practic-App\\styles\\ProductTheme.xaml",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\styles\\ProductTheme.xaml",
+              "RelativeToolTip": "Practic-App\\styles\\ProductTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T23:55:26.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InputTheme.xaml",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\styles\\InputTheme.xaml",
+              "RelativeDocumentMoniker": "Practic-App\\styles\\InputTheme.xaml",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\styles\\InputTheme.xaml",
+              "RelativeToolTip": "Practic-App\\styles\\InputTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T12:34:31.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ButtonTheme.xaml",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\styles\\ButtonTheme.xaml",
+              "RelativeDocumentMoniker": "Practic-App\\styles\\ButtonTheme.xaml",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\styles\\ButtonTheme.xaml",
+              "RelativeToolTip": "Practic-App\\styles\\ButtonTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T12:34:27.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TovarListView.xaml.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\TovarListView.xaml.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\View\\TovarListView.xaml.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\TovarListView.xaml.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\View\\TovarListView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:14:49.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\App.xaml",
+              "RelativeDocumentMoniker": "Practic-App\\App.xaml",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\App.xaml",
+              "RelativeToolTip": "Practic-App\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T17:20:27.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\ViewModel\\Login\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\ViewModel\\Login\\RegisterViewModel.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\ViewModel\\Login\\RegisterViewModel.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\ViewModel\\Login\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:18:08.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductView.xaml.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\ProductView.xaml.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\View\\ProductView.xaml.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\ProductView.xaml.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\View\\ProductView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:13:36.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DeleteProductView.xaml.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\DeleteProductView.xaml.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\View\\DeleteProductView.xaml.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\DeleteProductView.xaml.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\View\\DeleteProductView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:12:32.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BasketView.xaml.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\BasketView.xaml.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\View\\BasketView.xaml.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\BasketView.xaml.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\View\\BasketView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:12:08.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\ViewModel\\Login\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\ViewModel\\Login\\LoginViewModel.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\ViewModel\\Login\\LoginViewModel.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\ViewModel\\Login\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:19:53.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BasketView.xaml",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\BasketView.xaml",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\View\\BasketView.xaml",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\BasketView.xaml",
+              "RelativeToolTip": "Practic-App\\MVVM\\View\\BasketView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T16:18:01.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductView.xaml",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\ProductView.xaml",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\View\\ProductView.xaml",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\ProductView.xaml",
+              "RelativeToolTip": "Practic-App\\MVVM\\View\\ProductView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T16:18:01.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\Login\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\View\\Login\\RegisterWindow.xaml.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\Login\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\View\\Login\\RegisterWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:48:12.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DeleteProductView.xaml",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\DeleteProductView.xaml",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\View\\DeleteProductView.xaml",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\DeleteProductView.xaml",
+              "RelativeToolTip": "Practic-App\\MVVM\\View\\DeleteProductView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T17:42:38.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\Login\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\View\\Login\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\Login\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\View\\Login\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:31:49.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\Login\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\View\\Login\\RegisterWindow.xaml",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\Login\\RegisterWindow.xaml",
+              "RelativeToolTip": "Practic-App\\MVVM\\View\\Login\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T17:42:41.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\Login\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\View\\Login\\LoginWindow.xaml",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\View\\Login\\LoginWindow.xaml",
+              "RelativeToolTip": "Practic-App\\MVVM\\View\\Login\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T16:18:01.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\Model\\User.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\User.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\Model\\User.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAxwC0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:05:54.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Practic-App\\MVVM\\Model\\Product.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\MVVM\\Model\\Product.cs",
+              "RelativeToolTip": "Practic-App\\MVVM\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:53:25.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ApplicationDataContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\Migrations\\ApplicationDataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Practic-App\\Migrations\\ApplicationDataContextModelSnapshot.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\Migrations\\ApplicationDataContextModelSnapshot.cs",
+              "RelativeToolTip": "Practic-App\\Migrations\\ApplicationDataContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:55:42.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240422121105_Initial.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\Migrations\\20240422121105_Initial.cs",
+              "RelativeDocumentMoniker": "Practic-App\\Migrations\\20240422121105_Initial.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\Migrations\\20240422121105_Initial.cs",
+              "RelativeToolTip": "Practic-App\\Migrations\\20240422121105_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:55:38.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Practic-App\\AssemblyInfo.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\Practic-App\\Practic-App\\AssemblyInfo.cs",
+              "RelativeToolTip": "Practic-App\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:55:28.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

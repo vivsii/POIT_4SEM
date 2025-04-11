@@ -1,0 +1,33 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="Button_AddProduct">Добавить товар</system:String>
+    <system:String x:Key="Button_EditProduct">Редактировать товар</system:String>
+    <system:String x:Key="Button_DeleteProduct">Удалить товар</system:String>
+    <system:String x:Key="Button_SearchProduct">Поиск товара</system:String>
+    <system:String x:Key="Button_Sort">Сортировка товаров</system:String>
+    <system:String x:Key="SortBoxByPrice">По цене</system:String>
+    <system:String x:Key="SortBoxByName">По названию</system:String>
+    <system:String x:Key="SortBoxByRating">По рейтингу</system:String>
+    <system:String x:Key="SortBoxByCategory">По категории</system:String>
+    <system:String x:Key="SortBoxByQuantity">По количеству</system:String>
+    <system:String x:Key="SortBoxByQuantityPurchased">По количеству купленных</system:String>
+    <system:String x:Key="ShortNameTextBlock1">Название:</system:String>
+    <system:String x:Key="DescriptionTextBlock1">Описание:</system:String>
+    <system:String x:Key="CategoryTextBlock1">Категория:</system:String>
+    <system:String x:Key="RatingTextBlock1">Рейтинг:</system:String>
+    <system:String x:Key="PriceTextBlock1">Цена:</system:String>
+    <system:String x:Key="QuantityTextBlock1">Количество:</system:String>
+    <system:String x:Key="IsOutOfStockCheckBox">Нет в наличии:</system:String>
+    <system:String x:Key="QuantityPurchasedTextBlock1">Количество купленных:</system:String>
+    <system:String x:Key="ChooseImage1">Выбрать изображение:</system:String>
+    <system:String x:Key="SaveButton1">Сохранить</system:String>
+    <system:String x:Key="CancelButton1">Отменить</system:String>
+    <system:String x:Key="InStock">Наличие:</system:String>
+    <system:String x:Key="QuantityInStock">Количество в наличии:</system:String>
+    <system:String x:Key="InputTextBlock">Введите название товара:</system:String>
+    <system:String x:Key="InStock1">В наличии</system:String>
+    <system:String x:Key="OutOfStock">Нет в наличии</system:String>
+    <system:String x:Key="ErrorFillAllFields">Пожалуйста, заполните все поля.</system:String>
+    <system:String x:Key="ErrorInvalidNumericValues">Пожалуйста, введите корректные числовые значения.</system:String>
+</ResourceDictionary>

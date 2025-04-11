@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="lab04_05.UserControl3"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:lab04_05"
+             mc:Ignorable="d" Height="425" Width="421">
+    <Grid HorizontalAlignment="Right" Width="473">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="361*"/>
+            <RowDefinition Height="64*"/>
+        </Grid.RowDefinitions>
+        <TextBox Height = "23"  
+      HorizontalAlignment = "Left"  
+      Margin = "80,49,0,0" Name = "txtBox"  
+      VerticalAlignment = "Top" Width = "369" />
+
+        <Button Content = "Click Me"  
+      Height = "23" HorizontalAlignment = "Left"  
+      Margin = "231,88,0,0" Name = "button"  
+      VerticalAlignment = "Top" Click = "button_Click" />
+    </Grid>
+</UserControl>

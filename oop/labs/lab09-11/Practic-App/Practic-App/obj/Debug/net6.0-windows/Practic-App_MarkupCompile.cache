@@ -1,0 +1,20 @@
+﻿Practic-App
+
+
+winexe
+C#
+.cs
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\
+Practic_App
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\App.xaml
+131887848352
+
+36-302318198
+223-1248282008
+MainWindow.xaml;MVVM\View\AddTovarView.xaml;MVVM\View\BasketView.xaml;MVVM\View\DeleteProductView.xaml;MVVM\View\Login\LoginWindow.xaml;MVVM\View\Login\RegisterWindow.xaml;MVVM\View\ProductView.xaml;MVVM\View\TovarListView.xaml;styles\ButtonTheme.xaml;styles\InputTheme.xaml;styles\MainStyles.xaml;styles\ProductTheme.xaml;styles\RadioButtonTheme.xaml;
+
+False
+

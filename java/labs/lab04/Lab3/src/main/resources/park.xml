@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<park>
+    <cars>
+        <truck>
+            <fuelConsumption>22.7</fuelConsumption>
+            <maxSpeed>200</maxSpeed>
+            <price>10000</price>
+        </truck>
+        <bus>
+            <fuelConsumption>15.8</fuelConsumption>
+            <maxSpeed>180</maxSpeed>
+            <price>17000</price>
+        </bus>
+        <truck>
+            <fuelConsumption>24.0</fuelConsumption>
+            <maxSpeed>220</maxSpeed>
+            <price>58000</price>
+        </truck>
+        <passengerCar>
+            <fuelConsumption>6.0</fuelConsumption>
+            <maxSpeed>250</maxSpeed>
+            <price>40000</price>
+        </passengerCar>
+        <passengerCar>
+            <fuelConsumption>7.2</fuelConsumption>
+            <maxSpeed>300</maxSpeed>
+            <price>12000</price>
+        </passengerCar>
+        <bus>
+            <fuelConsumption>15.2</fuelConsumption>
+            <maxSpeed>190</maxSpeed>
+            <price>28000</price>
+        </bus>
+        <truck>
+            <fuelConsumption>26.6</fuelConsumption>
+            <maxSpeed>210</maxSpeed>
+            <price>10000</price>
+        </truck>
+    </cars>
+</park>

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\lab08\\Lab08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED20B3A8-29F3-4550-8D0F-F6A9C18086C1}|lab08\\lab08.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\lab08\\lab08\\lab08\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED20B3A8-29F3-4550-8D0F-F6A9C18086C1}|lab08\\lab08.csproj|solutionrelative:lab08\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\lab08\\Lab08\\lab08\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lab08\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u04472\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\lab08\\Lab08\\lab08\\MainWindow.xaml",
+              "RelativeToolTip": "lab08\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-22T12:35:39.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

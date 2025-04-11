@@ -1,0 +1,41 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="park">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="cars">
+                    <xs:complexType>
+                        <xs:choice maxOccurs="unbounded" minOccurs="0">
+                            <xs:element name="truck">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element type="xs:float" name="fuelConsumption"/>
+                                        <xs:element type="xs:int" name="maxSpeed"/>
+                                        <xs:element type="xs:long" name="price"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="bus">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element type="xs:float" name="fuelConsumption"/>
+                                        <xs:element type="xs:int" name="maxSpeed"/>
+                                        <xs:element type="xs:long" name="price"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="passengerCar" maxOccurs="unbounded" minOccurs="0">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element type="xs:float" name="fuelConsumption"/>
+                                        <xs:element type="xs:int" name="maxSpeed"/>
+                                        <xs:element type="xs:long" name="price"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:choice>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

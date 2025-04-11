@@ -1,0 +1,40 @@
+<mxfile host="Electron" modified="2024-04-28T23:13:52.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="imNY4yZwXbHRltoAdeBC" version="24.2.5" type="device">
+  <diagram name="Страница — 1" id="Al6Au7bJOvFbm20p-5M3">
+    <mxGraphModel dx="1002" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="86x3K8oKv1cGEz7GhsoQ-1" value="Пользователь" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="500" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="86x3K8oKv1cGEz7GhsoQ-2" value="Администратор" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="86x3K8oKv1cGEz7GhsoQ-3" value="&amp;lt;&amp;lt;Приложение&amp;gt;&amp;gt;&lt;br&gt;Просмотри и заказ товаров" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="610" y="500" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="86x3K8oKv1cGEz7GhsoQ-4" value="&amp;lt;&amp;lt;Приложение&amp;gt;&amp;gt;&lt;br&gt;Добавление. удаление, изменение товаров" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="610" y="635" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86x3K8oKv1cGEz7GhsoQ-5" value="&amp;lt;&amp;lt;Контекст бд&amp;gt;&amp;gt;&lt;br&gt;Сущности товаров, пользователей и т.д." style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="827" y="560" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86x3K8oKv1cGEz7GhsoQ-6" value="&amp;lt;&amp;lt;База данных&amp;gt;&amp;gt;&lt;br&gt;Таблица товары&lt;div&gt;Таблица Пользователи&lt;/div&gt;&lt;div&gt;Таблица заказы&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="827" y="670" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="86x3K8oKv1cGEz7GhsoQ-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="780" y="520" width="50" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="86x3K8oKv1cGEz7GhsoQ-8" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="520" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="86x3K8oKv1cGEz7GhsoQ-9" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="660" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="86x3K8oKv1cGEz7GhsoQ-10" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="620" width="10" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

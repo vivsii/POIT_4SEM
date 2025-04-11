@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Наперстки</title>
+    <style>
+        div{
+            margin-bottom: 1em;
+        }
+        input[type = text]{
+            width: 50px;
+        }
+        img{
+            display: inline-block;
+        }
+        #layer1, #layer2, #layer3, #layer4{
+            position: absolute;
+        }
+        #layer1, #layer2, #layer3 {
+            z-index: 2;
+            transition: top 0.5s ease;
+        }
+        #layer1{
+            left: 0px;
+        }
+        #layer2{
+            left: 200px;
+        }
+        #layer3{
+            left: 400px;
+        }
+        #layer4 {
+            z-index: 1;
+            left: 3em;
+            top: 1em;
+        }
+        .nap{
+            width: 200px;
+        }
+        .ball{
+            width: 100px;
+        }
+        #right, #notRight{
+            display: inline-block;
+            color: #fff;
+        }
+        #right{
+            margin-left: 100px;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <div>
+            <div>
+                <label>Высота наперстка</label>
+                <input type="text" style="margin-left: 10px;" name="heightNap">
+                <label style="margin-left: 100px;">Результат</label>
+                <input type="text" style="margin-left: 10px;" readonly id="result" value="0">
+            </div>
+            <div>
+                <label>Ширина наперстка</label>
+                <input type="text" style="margin-left: 4px;" name="weightNap">
+                <h2 id="right">ВЕРНО!</h2><h2 id="notRight">НЕВЕРНО!</h2>
+            </div>
+            <div>
+                <label>Диаметр шарика</label>
+                <input type="text" style="margin-left: 19px;" name="diametr">
+            </div>
+            <div>
+                <input type="button" value="Сохранить" name="save">
+            </div>
+        </div>
+        <div style="margin-top: 250px; position: relative;">
+            <img src="nap.jpg" id="layer1" class="nap">
+            <img src="nap.jpg" id="layer2" class="nap">
+            <img src="nap.jpg" id="layer3" class="nap">
+            <img src="ball.jpg" id="layer4" class="ball">
+        </div>
+        <div>
+            <input type="button" value="Обновить" id="update" style="margin-top: 250px; margin-left: 200px;">
+        </div>
+    </form>
+    <script src="lab02.js"></script>
+</body>
+</html>

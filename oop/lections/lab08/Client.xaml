@@ -1,0 +1,24 @@
+﻿<Window x:Class="lab08.Client"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab08"
+        mc:Ignorable="d"
+            Title="Клиент" Height="360" Width="200" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="#ffcdcb">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <TextBlock Text="ID Клиента:" HorizontalAlignment="Center"/>
+            <TextBox x:Name="IDClient" Margin="25,0,25,25"/>
+            <TextBlock Text="Имя:" HorizontalAlignment="Center"/>
+            <TextBox x:Name="Name" Margin="25,0,25,25"/>
+            <TextBlock Text="Фамилия:" HorizontalAlignment="Center"/>
+            <TextBox x:Name="LastName" Margin="25,0,25,25"/>
+            <TextBlock Text="email:" HorizontalAlignment="Center"/>
+            <TextBox x:Name="Email" Margin="25,0,25,25"/>
+            <TextBlock Text="Телефон:" HorizontalAlignment="Center"/>
+            <TextBox x:Name="Phone" Width="150" Margin="25,0,25,25"/>
+            <Button Content="Сохранить" Margin="25,10,25,25" Click="Save_Click" Height="20"/>
+        </StackPanel>
+    </Grid>
+</Window>

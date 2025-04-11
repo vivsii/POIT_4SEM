@@ -1,0 +1,28 @@
+﻿<UserControl x:Class="lab04_05.UserControl2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+            xmlns:local="clr-namespace:lab04_05"
+            mc:Ignorable="d" 
+            Height="124" Width="238" FontSize="20">
+    <UserControl.Resources>
+        <local:Magazine Price="600" Title="New Time" x:Key="ModernMagazine"/>
+    </UserControl.Resources>
+    <Grid x:Name="grid1" DataContext="{StaticResource ModernMagazine}">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Название" />
+        <TextBlock Grid.Column="1"  ><Run Language="ru-ru" Text="Книга"/></TextBlock>
+        <TextBlock Text="Цена" Grid.Row="1" />
+        <TextBox Text="{Binding Price, Mode=TwoWay}" Grid.Column="1" Grid.Row="1" Margin="0,0,7,5"  />
+        <Button Content="Чек" Grid.Row="2" Grid.Column="1" Click="Button_Click" Margin="0,0,7,6" />
+    </Grid>
+</UserControl>

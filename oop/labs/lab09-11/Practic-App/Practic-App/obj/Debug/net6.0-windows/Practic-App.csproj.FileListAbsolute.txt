@@ -1,0 +1,174 @@
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Practic-App.exe
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Practic-App.deps.json
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Practic-App.runtimeconfig.json
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Practic-App.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Practic-App.pdb
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.csproj.AssemblyReference.cache
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App_MarkupCompile.cache
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App_MarkupCompile.lref
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.g.resources
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.AssemblyInfoInputs.cache
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.AssemblyInfo.cs
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.csproj.CoreCompileInputs.cache
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\refint\Practic-App.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.pdb
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.genruntimeconfig.cache
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\ref\Practic-App.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\styles\MainStyles.baml
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\styles\InputTheme.baml
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\styles\ProductTheme.baml
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\styles\RadioButtonTheme.baml
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\AddTovarView.g.cs
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\AddTovarView.baml
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\TovarListView.g.cs
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\TovarListView.baml
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\App.baml
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\ProductView.g.cs
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\ProductView.baml
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.csproj.CopyComplete
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\styles\ButtonTheme.baml
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\DeleteProductView.g.cs
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\DeleteProductView.baml
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\Login\LoginWindow.g.cs
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\Login\LoginWindow.baml
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\Login\RegisterWindow.g.cs
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\Login\RegisterWindow.baml
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\BasketView.g.cs
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\ооп\практика\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\BasketView.baml
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Practic-App.exe
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Practic-App.deps.json
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Practic-App.runtimeconfig.json
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Practic-App.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Practic-App.pdb
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Humanizer.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.csproj.AssemblyReference.cache
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\styles\ButtonTheme.baml
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\styles\InputTheme.baml
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\styles\MainStyles.baml
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\styles\ProductTheme.baml
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\styles\RadioButtonTheme.baml
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\AddTovarView.g.cs
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\BasketView.g.cs
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\DeleteProductView.g.cs
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\Login\LoginWindow.g.cs
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\Login\RegisterWindow.g.cs
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\ProductView.g.cs
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\TovarListView.g.cs
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\App.g.cs
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App_MarkupCompile.cache
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App_MarkupCompile.lref
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\App.baml
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\MainWindow.baml
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\AddTovarView.baml
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\BasketView.baml
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\DeleteProductView.baml
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\Login\LoginWindow.baml
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\Login\RegisterWindow.baml
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\ProductView.baml
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\MVVM\View\TovarListView.baml
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.g.resources
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.GeneratedMSBuildEditorConfig.editorconfig
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.AssemblyInfoInputs.cache
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.AssemblyInfo.cs
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.csproj.CoreCompileInputs.cache
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-.66A66F31.Up2Date
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\refint\Practic-App.dll
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.pdb
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\Practic-App.genruntimeconfig.cache
+D:\уник\ооп ч2\лабораторные\Practic-App\Practic-App\obj\Debug\net6.0-windows\ref\Practic-App.dll

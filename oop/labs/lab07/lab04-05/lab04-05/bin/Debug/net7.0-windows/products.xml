@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <ShortName>роиррди</ShortName>
+    <Description>воаы</Description>
+    <ImagePath>C:\Users\admin\Downloads\Telegram Desktop\IMG_8991.JPG</ImagePath>
+    <Category>ваытва</Category>
+    <Rating>1</Rating>
+    <Price>1</Price>
+    <Quantity>1</Quantity>
+    <IsOutOfStock>true</IsOutOfStock>
+    <QuantityPurchased>1</QuantityPurchased>
+  </Product>
+  <Product>
+    <ShortName>у</ShortName>
+    <Description>у</Description>
+    <ImagePath>C:\Users\admin\Downloads\Telegram Desktop\IMG_8991.JPG</ImagePath>
+    <Category>у</Category>
+    <Rating>4</Rating>
+    <Price>4</Price>
+    <Quantity>4</Quantity>
+    <IsOutOfStock>true</IsOutOfStock>
+    <QuantityPurchased>4</QuantityPurchased>
+  </Product>
+  <Product>
+    <ShortName>абв</ShortName>
+    <Description>авачовса</Description>
+    <ImagePath>C:\Users\admin\Downloads\✩.jpg</ImagePath>
+    <Category>првра</Category>
+    <Rating>5</Rating>
+    <Price>213</Price>
+    <Quantity>3</Quantity>
+    <IsOutOfStock>true</IsOutOfStock>
+    <QuantityPurchased>45</QuantityPurchased>
+  </Product>
+</ArrayOfProduct>

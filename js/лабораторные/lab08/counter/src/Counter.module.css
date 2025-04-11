@@ -1,0 +1,9 @@
+.redNum{
+    color: #ff0000;
+}
+.counterContainer{
+    border: solid #61dafb 2px;
+    border-radius: 10px;
+    padding: 10px;
+    padding-top: 30px;
+}

@@ -1,0 +1,33 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="Button_AddProduct">Add Product</system:String>
+    <system:String x:Key="Button_EditProduct">Edit Product</system:String>
+    <system:String x:Key="Button_DeleteProduct">Delete Product</system:String>
+    <system:String x:Key="Button_SearchProduct">Search Product</system:String>
+    <system:String x:Key="Button_Sort">Sort</system:String>
+    <system:String x:Key="SortBoxByPrice">By price</system:String>
+    <system:String x:Key="SortBoxByName">By name</system:String>
+    <system:String x:Key="SortBoxByRating">By rating</system:String>
+    <system:String x:Key="SortBoxByCategory">By category</system:String>
+    <system:String x:Key="SortBoxByQuantity">By quantity</system:String>
+    <system:String x:Key="SortBoxByQuantityPurchased">By quantity purchased</system:String>
+    <system:String x:Key="ShortNameTextBlock1">Name:</system:String>
+    <system:String x:Key="DescriptionTextBlock1">Description:</system:String>
+    <system:String x:Key="CategoryTextBlock1">Category:</system:String>
+    <system:String x:Key="RatingTextBlock1">Rating:</system:String>
+    <system:String x:Key="PriceTextBlock1">Price:</system:String>
+    <system:String x:Key="QuantityTextBlock1">Quantity:</system:String>
+    <system:String x:Key="IsOutOfStockCheckBox">Is out of stock:</system:String>
+    <system:String x:Key="QuantityPurchasedTextBlock1">Quantity purchased:</system:String>
+    <system:String x:Key="ChooseImage1">Choose image:</system:String>
+    <system:String x:Key="SaveButton1">Save</system:String>
+    <system:String x:Key="CancelButton1">Cancel</system:String>
+    <system:String x:Key="InStock">In stock:</system:String>
+    <system:String x:Key="QuantityInStock">Quantity in stock:</system:String>
+    <system:String x:Key="InputTextBlock">Enter the product name:</system:String>
+    <system:String x:Key="InStock1">In stock:</system:String>
+    <system:String x:Key="OutOfStock">Out of stock:</system:String>
+    <system:String x:Key="ErrorFillAllFields">Please fill in all fields.</system:String>
+    <system:String x:Key="ErrorInvalidNumericValues">Please enter valid numerical values.</system:String>
+</ResourceDictionary>

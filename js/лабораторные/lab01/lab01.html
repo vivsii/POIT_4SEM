@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+    <html lang="ru">
+        <head>
+            <meta charset="UTF-8">
+            <title>Форма</title>
+            <style>
+                form{
+                    width: 27em;
+                    border-color: #000;
+                    border-style:solid;
+                    padding-left: 1em;
+                }
+                .label{
+                    display: inline-block;
+                    width: 13em;
+                }
+                .invalid { border-color: red; }
+                #error, #nameError, #LastNameError, #telError, #aboutError { color: red}
+            </style>
+        </head>
+        <body>
+            <form>
+                <h3>Заполните форму:</h3>
+                <p>
+                    <label class="label">Фамилия</label>
+                    <input type="text" name="LastName">
+                    <div id="LastNameError"></div>
+                </p>
+                <p>
+                    <label class="label">Имя</label>
+                    <input type="text" name="nameVal">
+                    <div id="nameError"></div>
+                </p>
+                <p>
+                    <label class="label">Email</label>
+                    <input type="email" id="Email">
+                    <div id="error"></div>
+                </p>
+                <p>
+                    <label class="label">Телефон (0xx)xxx-xx-xx</label>
+                    <input type="tel" name="telVal">
+                    <div id="telError"></div>
+                <p>
+                <p>
+                    <label class="label">Город</label>
+                    <select id="select">
+                        <option value="Минск">Минск</option>
+                        <option value="Витебск">Витебск</option>
+                        <option value="Брест">Брест</option>
+                        <option value="Гродно">Гродно</option>
+                        <option value="Могилев">Могилев</option>
+                        <option value="Гомель">Гомель</option>
+                    </select>
+                </p>
+                <p>
+                    <span class="label">Я учусь в БГТУ </span>
+                    <label><input type="checkbox" id="checkBelstu">
+                    </label>
+                </p>
+                <p>
+                    <label class="label">На каком курсе учитесь?</label>
+                    <input name="course" type="radio" value="1" checked>1
+                    <input name="course" type="radio" value="2">2
+                    <input name="course" type="radio" value="3">3
+                    <input name="course" type="radio" value="4">4
+                </p>
+                <p>   
+                    <label class="label" style="vertical-align: top;">Расскажите о себе</label>
+                    <textarea name="about" style="height: 5em; width: 15em;" ></textarea>
+                    <div id="aboutError"></div>
+                </p>
+                <p>
+                    <input type="submit" value="Проверить">
+                </p>
+            </form>
+            <script src="lab01.js"></script>
+        </body>
+    </html>
