@@ -1,0 +1,22 @@
+﻿<Window x:Class="lab04_05.SearchResultsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Versun" Height="450" Width="800" Cursor="D:\уник\ооп ч2\лабораторные\lab04-05\lab04-05\lab04-05\arrow3.cur">
+    <Grid>
+        <ListBox Name="ProductListBox" Margin="10" MouseDoubleClick="ProductListBox_MouseDoubleClick">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="{Binding ImagePath}" Width="100" Height="100" Margin="0 0 10 0"/>
+                        <StackPanel>
+                            <TextBlock Text="{Binding ShortName}" FontWeight="Bold"/>
+                            <TextBlock Text="{Binding Description}"/>
+                            <TextBlock Text="{Binding Price, StringFormat='Цена: {0}'}"/>
+                            <TextBlock Text="{Binding IsOutOfStock, Converter={StaticResource AvailabilityConverter}}" Foreground="{Binding IsOutOfStock, Converter={StaticResource AvailabilityColorConverter}}"/>
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</Window>
